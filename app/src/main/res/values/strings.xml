@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">detalis</string>
+    <string name="buttonone">ভর্তির খবর</string>
+    <string name="bottontwo">অনুপ্রেরণামূলক গল্প</string>
+    <string name="bottonthree">ক্যারিয়ার</string>
+    <string name="bottonfour">নানারকম</string>
+    <string name="bottonfive">বিশ্ববিদ্যালয়</string>
+    <string name="bottonsix">স্কিল ডেভেলপমেন্ট</string>
+    <string name="bottonseven">লাইফ হ্যাকস</string>
+</resources>
